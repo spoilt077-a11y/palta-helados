@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Pote de helado para llevar de un kilo</title>
+  <ellipse cx="100" cy="186" rx="56" ry="7" fill="#000" opacity=".08"/>
+  <path d="M120 54 L156 20" stroke="#cfd4cf" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="160" cy="16" rx="10" ry="7" transform="rotate(-42 160 16)" fill="#e3e6e1"/>
+  <circle cx="72" cy="72" r="26" fill="#c98a4b"/>
+  <circle cx="128" cy="72" r="26" fill="#fbf3df"/>
+  <circle cx="100" cy="60" r="28" fill="#a9cf6c"/>
+  <ellipse cx="90" cy="50" rx="8" ry="5" fill="#fff" opacity=".45"/>
+  <ellipse cx="64" cy="64" rx="6" ry="4" fill="#fff" opacity=".35"/>
+  <path d="M40 84h120l-12 96H52z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <rect x="36" y="78" width="128" height="14" rx="7" fill="#2f5d3a"/>
+  <path d="M45 112h110l-4 36H49z" fill="#cfe3a1"/>
+  <text x="100" y="137" text-anchor="middle" font-family="Rubik, Arial, sans-serif" font-weight="800" font-size="20" fill="#2f5d3a">Palta</text>
+  <text x="100" y="168" text-anchor="middle" font-family="Rubik, Arial, sans-serif" font-weight="700" font-size="12" fill="#6a7564">1 kg</text>
+</svg>

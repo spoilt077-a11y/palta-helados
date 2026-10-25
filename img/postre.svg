@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Copa de postre helado con crema y cereza</title>
+  <ellipse cx="100" cy="186" rx="40" ry="6" fill="#000" opacity=".08"/>
+  <path d="M70 178h60" stroke="#cfd8d0" stroke-width="10" stroke-linecap="round"/>
+  <rect x="94" y="140" width="12" height="38" fill="#dfe6e0"/>
+  <path d="M50 80h100c0 36-20 62-50 62S50 116 50 80z" fill="#eef5d6"/>
+  <path d="M53 96h94c-2 8-5 14-9 20H62c-4-6-7-12-9-20z" fill="#c98a4b"/>
+  <path d="M62 116h76c-8 14-22 24-38 24s-30-10-38-24z" fill="#5a321e"/>
+  <path d="M50 80h100c0 36-20 62-50 62S50 116 50 80z" fill="none" stroke="#cfd8d0" stroke-width="3"/>
+  <path d="M60 88l10 44" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+  <circle cx="78" cy="76" r="22" fill="#fbf3df"/>
+  <circle cx="122" cy="76" r="22" fill="#f4a6b8"/>
+  <circle cx="100" cy="62" r="24" fill="#a9cf6c"/>
+  <path d="M76 54c8-10 16-4 24-12 8 8 16 2 24 12" fill="none" stroke="#5a321e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M100 32c2-10 8-16 16-18" stroke="#2f5d3a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="100" cy="34" r="10" fill="#d6304f"/>
+  <ellipse cx="96" cy="30" rx="3" ry="2" fill="#fff" opacity=".6"/>
+</svg>

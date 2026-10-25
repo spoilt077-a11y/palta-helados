@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Vaso de helado de dulce de leche granizado</title>
+  <ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+  <path d="M56 96h88l-10 84H66z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <path d="M60 120h80l-2 18H62z" fill="#2f5d3a"/>
+  <circle cx="82" cy="84" r="28" fill="#c98a4b"/>
+  <circle cx="118" cy="84" r="28" fill="#b9773d"/>
+  <circle cx="100" cy="62" r="30" fill="#c98a4b"/>
+  <ellipse cx="90" cy="50" rx="9" ry="5" fill="#fff" opacity=".4"/>
+  <path d="M74 66c8 10 20-4 30 6s20-2 26 4" stroke="#8a5528" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <g stroke="#3e2214" stroke-width="2.5" stroke-linecap="round">
+    <path d="M86 58l6 3"/><path d="M108 52l5-3"/><path d="M114 86l6 2"/><path d="M72 90l5 2"/><path d="M98 86l-4 4"/><path d="M126 96l5-2"/><path d="M104 40l-3 4"/>
+  </g>
+</svg>

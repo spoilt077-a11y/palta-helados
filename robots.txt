@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://palta-helados.vercel.app/sitemap.xml

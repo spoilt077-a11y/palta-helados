@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Vaso de helado de frutilla al agua</title>
+  <ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+  <path d="M56 96h88l-10 84H66z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <path d="M60 120h80l-2 18H62z" fill="#2f5d3a"/>
+  <circle cx="82" cy="84" r="28" fill="#e8506a"/>
+  <circle cx="118" cy="84" r="28" fill="#f07087"/>
+  <circle cx="100" cy="62" r="30" fill="#e8506a"/>
+  <ellipse cx="90" cy="50" rx="9" ry="5" fill="#fff" opacity=".45"/>
+  <g fill="#b8243f"><circle cx="110" cy="70" r="2"/><circle cx="86" cy="78" r="2"/><circle cx="124" cy="92" r="2"/><circle cx="98" cy="88" r="2"/></g>
+  <path d="M146 26c14 0 22 10 20 22-2 14-14 26-20 28-6-2-18-14-20-28-2-12 6-22 20-22z" fill="#d6304f"/>
+  <path d="M134 26c4-6 8-8 12-6 4-2 8 0 12 6-4 2-8 2-12 0-4 2-8 2-12 0z" fill="#2f5d3a"/>
+  <g fill="#f8d36a"><circle cx="140" cy="40" r="1.6"/><circle cx="152" cy="40" r="1.6"/><circle cx="146" cy="50" r="1.6"/><circle cx="138" cy="54" r="1.6"/><circle cx="154" cy="54" r="1.6"/><circle cx="146" cy="62" r="1.6"/></g>
+</svg>

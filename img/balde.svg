@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Baldes de helado Palta para distribución mayorista</title>
+  <ellipse cx="100" cy="184" rx="84" ry="8" fill="#000" opacity=".08"/>
+  <path d="M18 104h66l-6 76H24z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <rect x="14" y="96" width="74" height="12" rx="4" fill="#c98a4b"/>
+  <path d="M23 130h62l-2 22H25z" fill="#f6e3c4"/>
+  <text x="46" y="146" text-anchor="middle" font-family="Rubik, Arial, sans-serif" font-weight="800" font-size="13" fill="#7a4a2b">Palta</text>
+  <path d="M70 66c0-32 96-32 96 0" stroke="#9aa59a" stroke-width="4" fill="none"/>
+  <path d="M70 66h96l-8 114H78z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <rect x="64" y="58" width="108" height="16" rx="5" fill="#2f5d3a"/>
+  <path d="M75 110h86l-3 38H78z" fill="#cfe3a1"/>
+  <text x="118" y="136" text-anchor="middle" font-family="Rubik, Arial, sans-serif" font-weight="800" font-size="22" fill="#2f5d3a">Palta</text>
+  <text x="118" y="166" text-anchor="middle" font-family="Rubik, Arial, sans-serif" font-weight="700" font-size="10" fill="#6a7564">HELADO ARTESANAL · 10 L</text>
+</svg>

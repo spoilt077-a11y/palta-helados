@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Vaso de helado de palta y lima, el sabor insignia</title>
+  <ellipse cx="100" cy="186" rx="64" ry="7" fill="#000" opacity=".08"/>
+  <path d="M54 96h92l-10 84H64z" fill="#fff" stroke="#e6e8d6" stroke-width="2"/>
+  <path d="M58 120h84l-2 18H60z" fill="#2f5d3a"/>
+  <circle cx="82" cy="84" r="28" fill="#a9cf6c"/>
+  <circle cx="118" cy="82" r="30" fill="#bcdc85"/>
+  <circle cx="100" cy="62" r="28" fill="#a9cf6c"/>
+  <ellipse cx="92" cy="50" rx="9" ry="5" fill="#fff" opacity=".45"/>
+  <g fill="#7fa83f"><circle cx="110" cy="70" r="2"/><circle cx="80" cy="80" r="2"/><circle cx="126" cy="90" r="2"/></g>
+  <circle cx="50" cy="156" r="22" fill="#9bcc3c"/>
+  <circle cx="50" cy="156" r="18" fill="#e4f2a6"/>
+  <g stroke="#9bcc3c" stroke-width="2"><path d="M50 140v32"/><path d="M34 156h32"/><path d="M39 145l22 22"/><path d="M61 145l-22 22"/></g>
+  <g transform="rotate(18 152 146)">
+    <path d="M152 108c-14 0-22 16-24 30-2 18 8 34 24 34s26-16 24-34c-2-14-10-30-24-30z" fill="#2f5d3a"/>
+    <path d="M152 114c-10 0-17 13-18 25-2 14 6 27 18 27s20-13 18-27c-1-12-8-25-18-25z" fill="#cfe3a1"/>
+    <circle cx="152" cy="146" r="11" fill="#7a4a2b"/>
+    <circle cx="148" cy="142" r="3" fill="#a26a45"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Cucurucho de helado artesanal de palta y frutilla</title>
+  <ellipse cx="100" cy="190" rx="34" ry="5" fill="#000" opacity=".08"/>
+  <path d="M62 98 L100 186 L138 98 Z" fill="#d8a05c" stroke="#b97f3e" stroke-width="2" stroke-linejoin="round"/>
+  <g stroke="#b97f3e" stroke-width="2" opacity=".7">
+    <path d="M72 98 L110 164"/><path d="M90 98 L118 146"/><path d="M108 98 L126 128"/>
+    <path d="M128 98 L90 164"/><path d="M110 98 L82 146"/><path d="M92 98 L74 128"/>
+  </g>
+  <circle cx="100" cy="76" r="40" fill="#f4a6b8"/>
+  <path d="M60 80c0 8 6 22 14 22 6 0 6 10 12 10s6-8 14-8 8 12 14 12 6-14 12-14 14-8 14-22z" fill="#f4a6b8"/>
+  <path d="M64 92c6 6 16 10 36 10s30-4 36-10c-2 6-6 10-10 10-6 0-6 14-12 14s-8-12-14-12-8 8-14 8-6-10-12-10c-4 0-8-4-10-10z" fill="#e88aa0"/>
+  <circle cx="100" cy="44" r="30" fill="#a9cf6c"/>
+  <path d="M72 54c6 5 14 8 28 8s22-3 28-8c-4 10-14 18-28 18s-24-8-28-18z" fill="#8fbb52"/>
+  <path d="M74 56c4 6 6 12 2 18" stroke="#a9cf6c" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <ellipse cx="88" cy="32" rx="9" ry="6" fill="#fff" opacity=".45"/>
+  <ellipse cx="80" cy="70" rx="8" ry="5" fill="#fff" opacity=".35"/>
+  <path d="M100 14c4-6 12-6 14-2" stroke="#2f5d3a" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M108 10c6-2 12 2 12 8-6 2-12-2-12-8z" fill="#2f5d3a"/>
+  <g fill="#c94f6d"><circle cx="114" cy="80" r="2.5"/><circle cx="90" cy="88" r="2.5"/><circle cx="124" cy="94" r="2.5"/></g>
+</svg>
