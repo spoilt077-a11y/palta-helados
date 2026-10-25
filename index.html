@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Palta Helados</title>
+  <meta name="description" content="Palta Helados: helado artesanal, potes, palitos, postres y tortas heladas. Franquicias y venta mayorista.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+
+  <header class="topbar">
+    <a href="#" class="logo" aria-label="Palta Helados, inicio">
+      <svg viewBox="0 0 48 48" aria-hidden="true">
+        <path d="M24 3c-8 0-13 9-15 17-2 10 3 25 15 25s17-15 15-25C37 12 32 3 24 3z" fill="#2f5d3a"/>
+        <path d="M24 8c-6 0-10 7-11.5 13.5C11 30 15 41 24 41s13-11 11.5-19.5C34 15 30 8 24 8z" fill="#cfe3a1"/>
+        <circle cx="24" cy="28" r="7" fill="#7a4a2b"/>
+        <circle cx="21.5" cy="25.5" r="2" fill="#a26a45"/>
+      </svg>
+      <span>Palta <b>Helados</b></span>
+    </a>
+    <button class="menu-btn" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="menu">
+      <a href="#productos">Productos</a>
+      <a href="#franquicias">Franquicias</a>
+      <a href="#distribucion">Distribución</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#contacto">Contacto</a>
+      <a class="btn btn-sm btn-primary" data-whatsapp target="_blank" rel="noopener">WhatsApp</a>
+    </nav>
+  </header>
+
+  <main id="contenido">
+    <!-- Portada -->
+    <section class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">Heladería artesanal</p>
+        <h1>Helado artesanal, <span class="resaltado">en su punto justo.</span></h1>
+        <p class="lead">En Palta Helados elaboramos helado, palitos, postres y tortas heladas con materias primas frescas. Disfrutalo en nuestros locales, abrí tu franquicia o sumá nuestros productos a tu negocio.</p>
+        <div class="acciones">
+          <a href="#productos" class="btn btn-primary">Ver productos</a>
+          <a class="btn btn-ghost" data-whatsapp target="_blank" rel="noopener">Hablar por WhatsApp</a>
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="blob"></div>
+        <div class="cono">
+          <div class="bocha b1"></div>
+          <div class="bocha b2"></div>
+          <div class="bocha b3"></div>
+          <div class="galleta"></div>
+        </div>
+        <span class="flota f1">🥑</span>
+        <span class="flota f2">🍓</span>
+        <span class="flota f3">🍫</span>
+      </div>
+    </section>
+
+    <!-- Accesos por perfil -->
+    <section class="perfiles">
+      <a href="#productos" class="perfil">
+        <span class="perfil-tag">Cliente</span>
+        <strong>Quiero disfrutar Palta</strong>
+        <span class="flecha">→</span>
+      </a>
+      <a href="#franquicias" class="perfil">
+        <span class="perfil-tag">Franquicia</span>
+        <strong>Quiero abrir una franquicia</strong>
+        <span class="flecha">→</span>
+      </a>
+      <a href="#distribucion" class="perfil">
+        <span class="perfil-tag">Distribuidor</span>
+        <strong>Quiero vender Palta en mi negocio</strong>
+        <span class="flecha">→</span>
+      </a>
+    </section>
+
+    <!-- Nosotros -->
+    <section id="nosotros" class="seccion dos-col">
+      <div class="ilustracion palta-grande" aria-hidden="true">
+        <div class="palta-cuerpo"><div class="palta-carne"><div class="palta-carozo"></div></div></div>
+      </div>
+      <div>
+        <p class="eyebrow">Nosotros</p>
+        <h2>Una heladería de barrio que creció con sus vecinos</h2>
+        <p>Empezamos con una máquina, una receta de helado de palta y muchas ganas. Hoy elaboramos todos nuestros sabores en fábrica propia, con leche fresca, fruta de estación y sin apuros, para que cada cucharada salga como la primera.</p>
+        <a href="#contacto" class="btn btn-ghost">Conocé nuestra historia</a>
+      </div>
+    </section>
+
+    <!-- Categorías -->
+    <section id="productos" class="seccion">
+      <div class="cabecera">
+        <p class="eyebrow">Productos</p>
+        <h2>Todo lo que hacemos</h2>
+      </div>
+      <div id="categorias" class="categorias"></div>
+      <div class="centro"><a class="btn btn-primary" data-whatsapp target="_blank" rel="noopener">Consultar por un producto</a></div>
+    </section>
+
+    <!-- Carrusel -->
+    <section class="seccion destacados">
+      <div class="cabecera fila">
+        <div>
+          <p class="eyebrow">Favoritos</p>
+          <h2>Los más elegidos</h2>
+        </div>
+        <div class="carrusel-ctrl">
+          <button id="prev" aria-label="Anterior">←</button>
+          <button id="next" aria-label="Siguiente">→</button>
+        </div>
+      </div>
+      <div id="carrusel" class="carrusel"></div>
+    </section>
+
+    <!-- Por qué elegirnos -->
+    <section class="seccion porque">
+      <div class="cabecera">
+        <p class="eyebrow">¿Por qué Palta?</p>
+        <h2>Lo que nos hace distintos</h2>
+      </div>
+      <div class="pilares">
+        <div class="pilar"><span>✔</span><h3>Calidad artesanal</h3><p>Recetas propias y materias primas seleccionadas.</p></div>
+        <div class="pilar"><span>🏭</span><h3>Fábrica propia</h3><p>Producimos todo nosotros, con stock continuo.</p></div>
+        <div class="pilar"><span>💲</span><h3>Precio justo</h3><p>La mejor relación entre calidad y precio.</p></div>
+        <div class="pilar"><span>🤝</span><h3>Trato cercano</h3><p>Atención de verdad, como en el barrio.</p></div>
+      </div>
+    </section>
+
+    <!-- Franquicias -->
+    <section id="franquicias" class="seccion dos-col bloque-verde">
+      <div>
+        <p class="eyebrow claro">Franquicias</p>
+        <h2>Abrí tu propia heladería Palta</h2>
+        <p>Te acompañamos desde el primer día: elección del local, capacitación, abastecimiento y comunicación. Sumate a una marca que crece.</p>
+        <ul class="checks">
+          <li>Marca con identidad</li>
+          <li>Modelo de negocio probado</li>
+          <li>Soporte constante</li>
+          <li>Marketing compartido</li>
+        </ul>
+        <a class="btn btn-claro" data-whatsapp="Hola! Quiero info sobre franquicias de Palta Helados" target="_blank" rel="noopener">Quiero abrir una franquicia</a>
+      </div>
+      <div class="mosaico" aria-hidden="true">
+        <div style="--c:#cfe3a1">🥑</div>
+        <div style="--c:#f6e3c4">🍦</div>
+        <div style="--c:#f3d9de">🍓</div>
+        <div style="--c:#e9c9a0">🍨</div>
+      </div>
+    </section>
+
+    <!-- Distribución -->
+    <section id="distribucion" class="seccion dos-col">
+      <div class="ilustracion caja" aria-hidden="true">
+        <div class="balde"><span>Palta</span></div>
+      </div>
+      <div>
+        <p class="eyebrow">Distribución</p>
+        <h2>Vendé Palta en tu negocio</h2>
+        <p>Abastecemos kioscos, almacenes, restaurantes, hoteles y eventos con potes, palitos y postres helados.</p>
+        <ul class="checks oscuro">
+          <li>Amplio catálogo</li>
+          <li>Productos para cada canal</li>
+          <li>Entregas programadas</li>
+          <li>Precios mayoristas</li>
+        </ul>
+        <a class="btn btn-primary" data-whatsapp="Hola! Quiero distribuir productos de Palta Helados" target="_blank" rel="noopener">Quiero distribuir</a>
+      </div>
+    </section>
+
+    <!-- Cifras -->
+    <section class="cifras" id="cifras"></section>
+
+    <!-- Contacto -->
+    <section id="contacto" class="seccion contacto">
+      <p class="eyebrow">Contacto</p>
+      <h2>¿Querés hablar con nosotros?</h2>
+      <p class="lead">Productos, franquicias, distribución o lo que necesites. Te respondemos rápido.</p>
+      <div class="contacto-grid">
+        <a data-whatsapp target="_blank" rel="noopener"><strong>💬 WhatsApp</strong><span id="c-tel"></span></a>
+        <a id="c-mail-link"><strong>✉️ Email</strong><span id="c-mail"></span></a>
+        <div><strong>📍 Dirección</strong><span id="c-dir"></span></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <div class="logo logo-footer">Palta <b>Helados</b></div>
+        <p id="f-lema"></p>
+        <div class="redes">
+          <a id="f-ig" target="_blank" rel="noopener" aria-label="Instagram">IG</a>
+          <a id="f-fb" target="_blank" rel="noopener" aria-label="Facebook">FB</a>
+          <a data-whatsapp target="_blank" rel="noopener" aria-label="WhatsApp">WA</a>
+        </div>
+      </div>
+      <nav>
+        <a href="#productos">Productos</a>
+        <a href="#franquicias">Franquicias</a>
+        <a href="#distribucion">Distribución</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+    </div>
+    <p class="copy">© <span id="anio"></span> Palta Helados. Todos los derechos reservados.</p>
+  </footer>
+
+  <a class="wa-flotante" data-whatsapp target="_blank" rel="noopener" aria-label="Escribinos por WhatsApp">💬</a>
+
+  <script src="productos.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
